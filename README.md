@@ -38,3 +38,10 @@ Below are examples from the PowerBI dashboard, the entire interactive dashboard 
 ![Dashboard Overview](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/04908c5c-b09d-497d-8558-f4451bdd9dbe)
 
 ![image](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/a33f7892-cf65-44f8-ad20-7ba09c799037)
+
+### Product Performance:
+
+* 85% of the company’s revenue and 70% of orders are driven from 37.5% of its SKUs (Gaming Monitor, AirPods, MacBook Air).
+* In the headphones category, the Bose SoundSport Headphones have been a considerable disappointment, accounting for less than 1% of total revenues and orders, while being $40 cheaper than the AirPods on average.
+* The laptop category is the most diversified and is the fourth largest category, driving 33% of total revenue from 6% of total orders since 2019.
+* The company is heavily reliant on the continued popularity of Apple products, with the brand accounting for 50% of its total sales and 48% of its total orders since 2019.
