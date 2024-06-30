@@ -41,7 +41,8 @@ Below are examples from the PowerBI dashboard, the entire interactive dashboard 
 
 ### Product Performance:
 
-* 85% of the company’s revenue and 70% of orders are driven from 37.5% of its SKUs (Gaming Monitor, AirPods, MacBook Air).
-* In the headphones category, the Bose SoundSport Headphones have been a considerable disappointment, accounting for less than 1% of total revenues and orders, while being $40 cheaper than the AirPods on average.
-* The laptop category is the most diversified and is the fourth largest category, driving 33% of total revenue from 6% of total orders since 2019.
-* The company is heavily reliant on the continued popularity of Apple products, with the brand accounting for 50% of its total sales and 48% of its total orders since 2019.
+* 85% of the company's orders are from just three products, Gaming Monitor, Apple AirPods Headphones, and Samsung Charging Cable Pack. These three products accounted for $3.5M revenue in 2022, 70% of the company's total.  
+* In the headphones category, the Bose SoundSport Headphones have underperformed, contributing to less than 1% of total revenues and orders despite being, on average, $40 cheaper than the well-performing AirPods.
+* The accessory category continues to grow as share of orders, now at 32% in 2022, up from 21% in 2020. However, accessories remain less than 4% of total revenue.
+* The company is heavily reliant on the continued popularity of Apple products, with the brand accounting for 47% of total revenue in 2022. Apple's iPhone has yet to make an impact though, registering less than 1% of orders in 2022.
+
