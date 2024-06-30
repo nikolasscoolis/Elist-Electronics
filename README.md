@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 - **Operational Efficiency:** An evaluation of logistical effectiveness, including processing and shipping times
 - **Sales and Marketing Channels:** An investigation into the success of Elist's various sales and marketing channels 
 
-An interactive PowerBI dashboard can be downloaded [here](https://github.com/nikolasscoolis/Elist-Electronics/raw/main/Elist%20E-Comm.pbix)
+An interactive PowerBI dashboard can be downloaded [here.](https://github.com/nikolasscoolis/Elist-Electronics/raw/main/Elist%20Electronics.pbix)
 
 The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/nikolasscoolis/Elist-Electronics/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
 
@@ -33,7 +33,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 After peaking in late 2020, the company's sales have continued to decline, with significant drops in 2022. Key performance indicators have all shown year-over-year decreases: order volume by 40%, revenue by 46%, and average order value (AOV) by 10%. While this decline can be broadly attributed to a return to pre-pandemic normalcy, the following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
 
-Below are examples from the PowerBI dashboard, the entire interactive dashboard can be downloaded [here.](https://github.com/nikolasscoolis/Elist-Electronics/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
+Below are examples from the PowerBI dashboard, the entire interactive dashboard can be downloaded [here.](https://github.com/nikolasscoolis/Elist-Electronics/raw/main/Elist%20Electronics.pbix)
 
 ![Dashboard Overview](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/04908c5c-b09d-497d-8558-f4451bdd9dbe)
 
