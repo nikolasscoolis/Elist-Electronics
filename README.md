@@ -72,7 +72,7 @@ Below are examples from the PowerBI dashboard, the entire interactive dashboard 
 Based on the uncovered insights, the following recommendations have been provided: 
 
 * With 85% of orders and 70% of revenue coming from just three products, diversifying the product portfolio is crucial. Expanding the accessory category with new product lines, particularly Apple charging cables, would provide upsell opportunities.
-* Despite the general sales success of Apple products, iPhone sales have been disappointingly low. Enhancing marketing efforts to previous Apple product buyers could boost sales.
+* Despite the general sales success of Apple products, iPhone sales have been disappointingly low (1% of revenue in 2022). Enhancing marketing efforts to previous Apple product buyers could boost sales.
 * Look to capitalize on the growing share of Samsung accessories by introducing higher-cost Samsung products in already carried product categories such as laptops and cellphones.
 * Re-evaluate Bose SoundSport Headphones. Attempt to sell through product by implementing bundle offers and flash sales to non-Apple ecosystem loyalty members before discontinuing.
 * Continue and push forward the loyalty program. In order to convert non-members, consider offering a one-time sign-up discount paired with increased marketing of membership benefits and savings. Focus targeted and personalized ads to previous customers, utilize data analytics to increase marketing efforts when previously purchased products may need replacing. 
