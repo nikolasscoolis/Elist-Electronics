@@ -57,4 +57,5 @@ Below are examples from the PowerBI dashboard, the entire interactive dashboard 
 
 * North America grew in importance in 2022, increasing revenue share to 55% and order share to 53%.
 * Sales and average order value (AOV) fell across all regions in 2022. North America remains the largest AOV with $242, 39% above Latin America, the lowest performer.
-* Europe, the Middle East, and Africa saw a significant increase in order volume share in 4Q22, climbing from 26% to 33%.
+* Europe, the Middle East, and Africa saw a significant increase in order volume share in 4Q22, climbing from 26% to 33% quarter-over-quarter.
+
