@@ -47,17 +47,25 @@ Below are examples from the PowerBI dashboard, the entire interactive dashboard 
 * The accessory category continues to grow as a share of orders, now at 32% in 2022, up from 21% in 2020. However, accessories remain less than 4% of total revenue.
 * The company is heavily reliant on the continued popularity of Apple products, with the brand accounting for 47% of total revenue in 2022. Apple's iPhone has yet to make an impact though, registering less than 1% of orders in 2022.
 
+![Product Performance](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/abc6f7a4-1158-439e-8cbe-3f42ea47793a)
+
 ### Loyalty Program
 
 * The loyalty program has been growing in popularity since its implementation in 2019. Members as a share of revenue peaked in April 2022 at 62%. On an annual basis, members have increased to 55% of revenue, up from 8% in 2019.
 * In 2022, loyalty members spent almost $35 more on average than non-members ($251 to $216). Annual order value (AOV) for members has steadily increased year-over-year, climbing 1.1% from 2021 despite overall AOV declines.
 * Non-members have historically outspent on their first orders with the company, but on returning orders members outspent by nearly $60 in 2022.
 
+![Loyalty Program](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/7f097430-2df3-4f6a-b091-26064b9af3a5)
+
+
 ### Regional Comparisons:
 
 * North America grew in importance in 2022, increasing revenue share to 55% and order share to 53%.
 * Sales and average order value (AOV) fell across all regions in 2022. North America remains the largest AOV with $242, 39% above Latin America, the lowest performer.
 * Europe, the Middle East, and Africa saw a significant increase in order volume share in 4Q22, climbing from 26% to 33% quarter-over-quarter.
+
+![Regional Comparisons](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/84f4bf22-3f48-4af4-b392-2b1f18083d20)
+
 
 ### Recommendations:
 
