@@ -8,7 +8,7 @@ Insights and recommendations are provided on the following key areas:
 - **Sales Trends Analysis:** Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Order Volume, and Average Order Value (AOV).
 - **Product Level Performance:** An analysis of Elist's various product lines, understanding their impact on sales and returns
 - **Loyalty Program Success:** An assessment of the loyalty program on customer retention and sales
-- **Regional Comparisons:** An evalution of sales and orders by region
+- **Regional Comparisons:** An evaluation of sales and orders by region
 
 
 
@@ -16,7 +16,7 @@ An interactive PowerBI dashboard can be downloaded [here.](https://github.com/ni
 
 The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/nikolasscoolis/Elist-Electronics/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
 
-The SQL queries utilized to clean, organize, and prepare data for dashboard can be found [here.](https://github.com/nikolasscoolis/Elist-Electronics/blob/main/SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql)
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [here.](https://github.com/nikolasscoolis/Elist-Electronics/blob/main/SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql)
 
 Targeted SQL queries regarding various business questions can be found [here.](https://github.com/nikolasscoolis/Elist-Electronics/blob/main/SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql)
 
@@ -34,11 +34,18 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 After peaking in late 2020, the company's sales have continued to decline, with significant drops in 2022. Key performance indicators have all shown year-over-year decreases: order volume by 40%, revenue by 46%, and average order value (AOV) by 10%. While this decline can be broadly attributed to a return to pre-pandemic normalcy, the following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
 
-Below are examples from the PowerBI dashboard, the entire interactive dashboard can be downloaded [here.](https://github.com/nikolasscoolis/Elist-Electronics/raw/main/Elist%20Electronics.pbix)
+Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here.](https://github.com/nikolasscoolis/Elist-Electronics/raw/main/Elist%20Electronics.pbix)
 
 ![Dashboard Overview](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/04908c5c-b09d-497d-8558-f4451bdd9dbe)
 
-![image](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/a33f7892-cf65-44f8-ad20-7ba09c799037)
+### Sales Trends:
+
+* The company's sales peaked in December 2020 with 4,019 orders totaling $1,251,721 monthly revenue. This corresponds with the boom in economy-wide spending due to pandemic-induced changing consumer behavior.
+* Beginning in April 2021, revenue declined on a year-over-year basis for 21 consecutive months. Revenue hit a company lifetime low in October 2022, with the company earning just over $178K. In the following months, revenue recovered slightly, following normal holiday seasonality patterns.
+* Despite the downward trend, full-year 2022 remained above the pre-COVID 2019 baseline in all three key performance indicators. This is primarily due to the stronger 1Q22, which recorded revenue and order count well above the same period in 2020, up 37% and 23% respectively. 
+* Average order value saw a one-month year-over-year increase in September 2022, this can be attributed to an increased share of high-cost laptop orders.
+
+![Sales Trends](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/a33f7892-cf65-44f8-ad20-7ba09c799037)
 
 ### Product Performance:
 
@@ -51,8 +58,8 @@ Below are examples from the PowerBI dashboard, the entire interactive dashboard 
 
 ### Loyalty Program
 
-* The loyalty program has been growing in popularity since its implementation in 2019. Members as a share of revenue peaked in April 2022 at 62%. On an annual basis, members have increased to 55% of revenue, up from 8% in 2019.
-* In 2022, loyalty members spent almost $35 more on average than non-members ($251 to $216). Annual order value (AOV) for members has steadily increased year-over-year, climbing 1.1% from 2021 despite overall AOV declines.
+* The loyalty program has grown in popularity since its implementation in 2019. Members as a share of revenue peaked in April 2022 at 62%. On an annual basis, members have increased to 55% of revenue, up from 8% in 2019.
+* In 2022, loyalty members spent almost $35 more on average than non-members ($251 to $216). Annual order value (AOV) for members has steadily increased year-over-year, climbing 1.1% from 2021 while non-member AOV declined 18.7%.
 * Non-members have historically outspent on their first orders with the company, but on returning orders members outspent by nearly $60 in 2022.
 
 ![Loyalty Program](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/7f097430-2df3-4f6a-b091-26064b9af3a5)
@@ -60,9 +67,9 @@ Below are examples from the PowerBI dashboard, the entire interactive dashboard 
 
 ### Regional Comparisons:
 
-* North America grew in importance in 2022, increasing revenue share to 55% and order share to 53%.
+* North America grew in importance in 2022, increasing revenue share to 55% and order share to 53% among known region sales.
 * Sales and average order value (AOV) fell across all regions in 2022. North America remains the largest AOV with $242, 39% above Latin America, the lowest performer.
-* Europe, the Middle East, and Africa saw a significant increase in order volume share in 4Q22, climbing from 26% to 33% quarter-over-quarter.
+* Europe, the Middle East, and Africa saw a significant increase in order volume share in 4Q22, climbing from 26% to 33% quarter-over-quarter among known region sales.
 
 ![Regional Comparisons](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/84f4bf22-3f48-4af4-b392-2b1f18083d20)
 
@@ -74,6 +81,6 @@ Based on the uncovered insights, the following recommendations have been provide
 * With 85% of orders and 70% of revenue coming from just three products, diversifying the product portfolio is crucial. Expanding the accessory category with new product lines, particularly Apple charging cables, would provide upsell opportunities.
 * Despite the general sales success of Apple products, iPhone sales have been disappointingly low (1% of revenue in 2022). Enhancing marketing efforts to previous Apple product buyers could boost sales.
 * Look to capitalize on the growing share of Samsung accessories (32% of order count in 20222) by introducing higher-cost Samsung products in already carried product categories such as laptops and cellphones.
-* Re-evaluate Bose SoundSport Headphones. As the product has never made up more than 1% of annual revenue, attempt to sell through product by implementing bundle offers and flash sales to non-Apple ecosystem loyalty members before discontinuing.
-* Continue and push forward the loyalty program. In order to convert non-members, consider offering a one-time sign-up discount paired with increased marketing of membership benefits and savings. Focus targeted and personalized ads to previous customers, utilize data analytics to increase marketing efforts when previously purchased products may need replacing. 
+* Re-evaluate Bose SoundSport Headphones. As the product has never made up more than 1% of annual revenue, attempt to sell through the product by implementing bundle offers and flash sales to non-Apple ecosystem loyalty members before discontinuing.
+* Continue and push forward the loyalty program. In order to convert non-members, consider offering a one-time sign-up discount paired with increased general marketing of membership benefits and savings. Focus targeted and personalized ads to previous customers, and utilize past order data to increase marketing efforts when previously purchased products may need replacing. 
 
