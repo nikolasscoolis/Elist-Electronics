@@ -71,7 +71,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 * Sales and average order value (AOV) fell across all regions in 2022. North America remains the largest AOV with $242, 39% above Latin America, the lowest performer.
 * Europe, the Middle East, and Africa saw a significant increase in order volume share in 4Q22, climbing from 26% to 33% quarter-over-quarter among known region sales.
 
-![Regional Comparisons](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/0caf4243-d1cd-4c3c-a6cc-9d31817064f4)
+![Regional Comparisons](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/2a1aa7c9-49bd-4518-b0e7-2198d8423c55)
 
 ### Recommendations:
 
