@@ -54,7 +54,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 * The accessory category continues to grow as a share of orders, now at 32% in 2022, up from 21% in 2020. However, accessories remain less than 4% of total revenue.
 * The company is heavily reliant on the continued popularity of Apple products, with the brand accounting for 47% of total revenue in 2022. Apple's iPhone has yet to make an impact though, registering less than 1% of orders in 2022.
 
-![Product Performance](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/abc6f7a4-1158-439e-8cbe-3f42ea47793a)
+![Product Performance](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/0c9052ed-b7cc-47ad-81ad-ffbaa73f0a6e)
 
 ### Loyalty Program
 
