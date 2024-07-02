@@ -36,7 +36,8 @@ After peaking in late 2020, the company's sales have continued to decline, with 
 
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here.](https://github.com/nikolasscoolis/Elist-Electronics/raw/main/Elist%20Electronics.pbix)
 
-![Dashboard Overview](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/04908c5c-b09d-497d-8558-f4451bdd9dbe)
+![Dashboard Overview](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/c20e3ed3-2a31-43e7-9edb-1eda1d087dcb)
+
 
 ### Sales Trends:
 
@@ -54,7 +55,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 * The accessory category continues to grow as a share of orders, now at 32% in 2022, up from 21% in 2020. However, accessories remain less than 4% of total revenue.
 * The company is heavily reliant on the continued popularity of Apple products, with the brand accounting for 47% of total revenue in 2022. Apple's iPhone has yet to make an impact though, registering less than 1% of orders in 2022.
 
-![Product Performance](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/0c9052ed-b7cc-47ad-81ad-ffbaa73f0a6e)
+![Product Performance](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/3d908776-8317-496d-94e0-69030a66b9d9)
 
 ### Loyalty Program
 
@@ -62,8 +63,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 * In 2022, loyalty members spent almost $35 more on average than non-members ($251 to $216). Annual order value (AOV) for members has steadily increased year-over-year, climbing 1.1% from 2021 while non-member AOV declined 18.7%.
 * Non-members have historically outspent on their first orders with the company, but on returning orders members outspent by nearly $60 in 2022.
 
-![Loyalty Program](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/7f097430-2df3-4f6a-b091-26064b9af3a5)
-
+![Loyalty Program](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/e0243a7e-abe7-4512-8e23-d5106473e5ab)
 
 ### Regional Comparisons:
 
@@ -71,8 +71,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 * Sales and average order value (AOV) fell across all regions in 2022. North America remains the largest AOV with $242, 39% above Latin America, the lowest performer.
 * Europe, the Middle East, and Africa saw a significant increase in order volume share in 4Q22, climbing from 26% to 33% quarter-over-quarter among known region sales.
 
-![Regional Comparisons](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/84f4bf22-3f48-4af4-b392-2b1f18083d20)
-
+![Regional Comparisons](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/0caf4243-d1cd-4c3c-a6cc-9d31817064f4)
 
 ### Recommendations:
 
