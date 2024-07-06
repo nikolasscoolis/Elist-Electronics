@@ -44,8 +44,11 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 ### Sales Trends:
 
 * **The company's sales peaked in December 2020 with 4,019 orders totaling $1,251,721 monthly revenue**. This corresponds with the boom in economy-wide spending due to pandemic-induced changing consumer behavior.
+  
 * Beginning in April 2021, **revenue declined on a year-over-year basis for 21 consecutive months**. Revenue hit a company lifetime low in October 2022, with the company earning just over $178K. In the following months, revenue recovered slightly, following normal holiday seasonality patterns.
-* Despite the downward trend, full-year 2022 remained above the pre-COVID 2019 baseline in all three key performance indicators. This is primarily due to the stronger 1Q22, which recorded revenue and order count well above the same period in 2020, **up 37% and 23% respectively.** 
+  
+* Despite the downward trend, full-year 2022 remained above the pre-COVID 2019 baseline in all three key performance indicators. This is primarily due to the stronger 1Q22, which recorded revenue and order count well above the same period in 2020, **up 37% and 23% respectively.**
+  
 * Average order value saw a one-month year-over-year increase in September 2022, this can be attributed to an increased share of high-cost laptop orders.
 
 ![Sales Trends](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/a33f7892-cf65-44f8-ad20-7ba09c799037)
