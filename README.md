@@ -70,7 +70,9 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 ### Loyalty Program
 
 * The loyalty program has grown in popularity since its implementation in 2019. Members as a share of revenue peaked in April 2022 at 62%. **On an annual basis, members have increased to 55% of revenue, up from 8% in 2019.**
+  
 * In 2022, l**oyalty members spent almost $35 more on average than non-members ($251 to $216)**. Annual order value (AOV) for members has steadily increased year-over-year, climbing 1.1% from 2021 while non-member AOV declined 18.7%.
+  
 * Non-members have historically outspent on their first orders with the company, but on **returning orders members outspent by nearly $60 in 2022.**
 
 ![Loyalty Program](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/e0243a7e-abe7-4512-8e23-d5106473e5ab)
@@ -79,7 +81,9 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 ### Regional Comparisons:
 
 * North America grew in importance in 2022, increasing revenue share to 55% and order share to 53% among known region sales.
+  
 * Sales and average order value (AOV) fell across all regions in 2022. **North America remains the largest AOV with $242, 39% above Latin America, the lowest performer.**
+  
 * Europe, the Middle East, and Africa saw a significant increase in order volume share in 4Q22, climbing from 26% to 33% quarter-over-quarter among known region sales.
 
 ![Regional Comparisons](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/2a1aa7c9-49bd-4518-b0e7-2198d8423c55)
@@ -90,8 +94,12 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 Based on the uncovered insights, the following recommendations have been provided: 
 
 * With 85% of orders and 70% of revenue coming from just three products, diversifying the product portfolio is crucial. **Expanding the accessory category with new product lines, particularly Apple charging cables, would provide upsell opportunities.**
+  
 * Despite the general sales success of Apple products, iPhone sales have been disappointingly low (1% of revenue in 2022). **Enhancing marketing efforts to previous Apple product buyers could boost sales.**
+  
 * Look to capitalize on the growing share of Samsung accessories (32% of order count in 2022) by **introducing higher-cost Samsung products in already carried product categories such as laptops and cellphones.**
+  
 * **Re-evaluate Bose SoundSport Headphones.** As the product has never made up more than 1% of annual revenue, attempt to sell through the product by implementing bundle offers and flash sales to non-Apple ecosystem loyalty members before discontinuing.
+  
 * **Continue and push forward the loyalty program.** In order to convert non-members, consider offering a one-time sign-up discount paired with increased general marketing of membership benefits and savings. Focus targeted and personalized ads to previous customers, and utilize past order data to increase marketing efforts when previously purchased products may need replacing. 
 
