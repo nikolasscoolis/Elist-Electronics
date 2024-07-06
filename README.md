@@ -28,6 +28,7 @@ Elist's database structure as seen below consists of four tables: orders, custom
 
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/nikolasscoolis/Elist-Electronics/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql)
 
+
 # Executive Summary
 
 ### Overview of Findings
@@ -39,6 +40,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 ![Dashboard Overview](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/c20e3ed3-2a31-43e7-9edb-1eda1d087dcb)
 
 
+
 ### Sales Trends:
 
 * The company's sales peaked in December 2020 with 4,019 orders totaling $1,251,721 monthly revenue. This corresponds with the boom in economy-wide spending due to pandemic-induced changing consumer behavior.
@@ -47,6 +49,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 * Average order value saw a one-month year-over-year increase in September 2022, this can be attributed to an increased share of high-cost laptop orders.
 
 ![Sales Trends](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/a33f7892-cf65-44f8-ad20-7ba09c799037)
+
 
 ### Product Performance:
 
@@ -57,6 +60,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 ![Product Performance](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/3d908776-8317-496d-94e0-69030a66b9d9)
 
+
 ### Loyalty Program
 
 * The loyalty program has grown in popularity since its implementation in 2019. Members as a share of revenue peaked in April 2022 at 62%. On an annual basis, members have increased to 55% of revenue, up from 8% in 2019.
@@ -65,6 +69,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 ![Loyalty Program](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/e0243a7e-abe7-4512-8e23-d5106473e5ab)
 
+
 ### Regional Comparisons:
 
 * North America grew in importance in 2022, increasing revenue share to 55% and order share to 53% among known region sales.
@@ -72,6 +77,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 * Europe, the Middle East, and Africa saw a significant increase in order volume share in 4Q22, climbing from 26% to 33% quarter-over-quarter among known region sales.
 
 ![Regional Comparisons](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/2a1aa7c9-49bd-4518-b0e7-2198d8423c55)
+
 
 ### Recommendations:
 
