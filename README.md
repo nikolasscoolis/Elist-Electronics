@@ -20,6 +20,7 @@ The SQL queries utilized to clean, organize, and prepare data for the dashboard 
 
 Targeted SQL queries regarding various business questions can be found [here.](https://github.com/nikolasscoolis/Elist-Electronics/blob/main/SQL%20Queries/Targeted%20Business%20Questions.sql)
 
+
 # Data Structure & Initial Checks
 
 Elist's database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
