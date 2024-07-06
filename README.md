@@ -45,7 +45,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 ### Sales Trends:
 
 * **The company's sales peaked in December 2020 with 4,019 orders totaling $1,251,721 monthly revenue**. This corresponds with the boom in economy-wide spending due to pandemic-induced changing consumer behavior.
-* Beginning in April 2021, r**evenue declined on a year-over-year basis for 21 consecutive months**. Revenue hit a company lifetime low in October 2022, with the company earning just over $178K. In the following months, revenue recovered slightly, following normal holiday seasonality patterns.
+* Beginning in April 2021, **revenue declined on a year-over-year basis for 21 consecutive months**. Revenue hit a company lifetime low in October 2022, with the company earning just over $178K. In the following months, revenue recovered slightly, following normal holiday seasonality patterns.
 * Despite the downward trend, full-year 2022 remained above the pre-COVID 2019 baseline in all three key performance indicators. This is primarily due to the stronger 1Q22, which recorded revenue and order count well above the same period in 2020, **up 37% and 23% respectively.** 
 * Average order value saw a one-month year-over-year increase in September 2022, this can be attributed to an increased share of high-cost laptop orders.
 
@@ -57,7 +57,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 * **85% of the company's orders are from just three products**, Gaming Monitor, Apple AirPods Headphones, and Samsung Charging Cable Pack. These three products accounted for $3.5M in revenue in 2022, 70% of the company's total. 
 * In the headphones category, the Bose SoundSport Headphones have underperformed, contributing to less than 1% of total revenues and orders despite being, on average, $40 cheaper than the well-performing AirPods.
 * The accessory category continues to grow as a share of orders, **now at 32% in 2022, up from 21% in 2020**. However, accessories remain less than 4% of total revenue.
-* The company is heavily reliant on the continued popularity of Apple products, **with the brand accounting for 47% of total revenue in 2022**. Apple's iPhone has yet to make an impact though, registering less than 1% of orders in 2022.
+* The company is heavily reliant on the continued popularity of Apple products, with the brand **accounting for 47% of total revenue in 2022**. Apple's iPhone has yet to make an impact though, registering less than 1% of orders in 2022.
 
 ![Product Performance](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/3d908776-8317-496d-94e0-69030a66b9d9)
 
@@ -65,8 +65,8 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 ### Loyalty Program
 
 * The loyalty program has grown in popularity since its implementation in 2019. Members as a share of revenue peaked in April 2022 at 62%. **On an annual basis, members have increased to 55% of revenue, up from 8% in 2019.**
-* In 2022, loyalty members spent almost $35 more on average than non-members ($251 to $216). Annual order value (AOV) for members has steadily increased year-over-year, climbing 1.1% from 2021 while non-member AOV declined 18.7%.
-* Non-members have historically outspent on their first orders with the company, but on returning orders members outspent by nearly $60 in 2022.
+* In 2022, l**oyalty members spent almost $35 more on average than non-members ($251 to $216)**. Annual order value (AOV) for members has steadily increased year-over-year, climbing 1.1% from 2021 while non-member AOV declined 18.7%.
+* Non-members have historically outspent on their first orders with the company, but on **returning orders members outspent by nearly $60 in 2022.**
 
 ![Loyalty Program](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/e0243a7e-abe7-4512-8e23-d5106473e5ab)
 
@@ -74,7 +74,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 ### Regional Comparisons:
 
 * North America grew in importance in 2022, increasing revenue share to 55% and order share to 53% among known region sales.
-* Sales and average order value (AOV) fell across all regions in 2022. North America remains the largest AOV with $242, 39% above Latin America, the lowest performer.
+* Sales and average order value (AOV) fell across all regions in 2022. **North America remains the largest AOV with $242, 39% above Latin America, the lowest performer.**
 * Europe, the Middle East, and Africa saw a significant increase in order volume share in 4Q22, climbing from 26% to 33% quarter-over-quarter among known region sales.
 
 ![Regional Comparisons](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/2a1aa7c9-49bd-4518-b0e7-2198d8423c55)
