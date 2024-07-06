@@ -20,12 +20,6 @@ The SQL queries utilized to clean, organize, and prepare data for the dashboard 
 
 Targeted SQL queries regarding various business questions can be found [here.](https://github.com/nikolasscoolis/Elist-Electronics/blob/main/SQL%20Queries/Targeted%20Business%20Questions.sql)
 
-
-
-
-
-
-
 # Data Structure & Initial Checks
 
 Elist's database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 108,127 records.
@@ -59,9 +53,12 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 ### Product Performance:
 
-* **85% of the company's orders are from just three products**, Gaming Monitor, Apple AirPods Headphones, and Samsung Charging Cable Pack. These three products accounted for $3.5M in revenue in 2022, 70% of the company's total. 
+* **85% of the company's orders are from just three products**, Gaming Monitor, Apple AirPods Headphones, and Samsung Charging Cable Pack. These three products accounted for $3.5M in revenue in 2022, 70% of the company's total.
+  
 * In the headphones category, the Bose SoundSport Headphones have underperformed, contributing to less than 1% of total revenues and orders despite being, on average, $40 cheaper than the well-performing AirPods.
+  
 * The accessory category continues to grow as a share of orders, **now at 32% in 2022, up from 21% in 2020**. However, accessories remain less than 4% of total revenue.
+  
 * The company is heavily reliant on the continued popularity of Apple products, with the brand **accounting for 47% of total revenue in 2022**. Apple's iPhone has yet to make an impact though, registering less than 1% of orders in 2022.
 
 ![Product Performance](https://github.com/nikolasscoolis/Elist-Electronics/assets/170461739/3d908776-8317-496d-94e0-69030a66b9d9)
