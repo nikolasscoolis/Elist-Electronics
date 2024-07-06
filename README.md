@@ -18,7 +18,7 @@ The SQL queries utilized to inspect and perform quality checks can be found [her
 
 The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [here.](https://github.com/nikolasscoolis/Elist-Electronics/blob/main/SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql)
 
-Targeted SQL queries regarding various business questions can be found [here.](https://github.com/nikolasscoolis/Elist-Electronics/blob/main/SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql)
+Targeted SQL queries regarding various business questions can be found [here.](https://github.com/nikolasscoolis/Elist-Electronics/blob/main/SQL%20Queries/Targeted%20Business%20Questions.sql))
 
 # Data Structure & Initial Checks
 
